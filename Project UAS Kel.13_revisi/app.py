@@ -104,7 +104,7 @@ if page == "Home":
 
     # ===== IMAGE
     st.image(
-        "assets/img1.jpg",
+        "./assets/img1.jpg",
         caption="Cegah diabetes sejak dini",
         use_container_width=True
     )
